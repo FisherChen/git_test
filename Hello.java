@@ -1,7 +1,5 @@
 public class Hello{
-	
-	public static void main(String agr[]){
-	
+	public static void main(Stirng[] agrs){
 	
 	}
 	
